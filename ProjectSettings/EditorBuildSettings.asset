@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/NivelesJugables/MenuPrinicipal.unity
+    guid: 7bf22d10acdcfc64b9b91ce0dbde4504
+  - enabled: 1
+    path: Assets/Scenes/NivelesJugables/Americano.unity
+    guid: 57ca01dea4db6e24490486100ddb22c7
+  - enabled: 1
+    path: Assets/Scenes/NivelesJugables/Amore.unity
+    guid: bab5d63fc6972a24387f83bad61bdf3b
+  - enabled: 1
+    path: Assets/Scenes/NivelesJugables/RomaSong.unity
+    guid: 5da56a103b3d36245b78438791d24b95
+  m_configObjects: {}
